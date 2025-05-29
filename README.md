@@ -46,7 +46,6 @@
 
 ### 🌐 Connect With Me
 
-## 📬 Contact Me
 
 <p align="center">
   <a href="mailto:mukumbigeorge5@gmail.com">
