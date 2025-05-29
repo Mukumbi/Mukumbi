@@ -16,7 +16,7 @@
 ### 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lehlonolod&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukumbi&theme=radical"/>
 </p>
 
 ---
@@ -24,7 +24,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lehlonolod&theme=radical&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mukumbi&theme=radical&column=7" />
 </p>
 
 ---
