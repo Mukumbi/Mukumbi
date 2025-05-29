@@ -58,4 +58,3 @@
 
 ---
 
-*Made with ❤️ by George Mukumbi using GitHub Stats, Trophies, and Markdown magic.*
