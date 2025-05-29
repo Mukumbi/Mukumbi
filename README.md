@@ -9,9 +9,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lehlonolod&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehlonolod&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mukumbi&show_icons=true&theme=radical" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukumbi&layout=compact&theme=radical" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukumbi&theme=radical" />
 </p>
+
 
 ### 🔥 Streak Stats
 
