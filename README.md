@@ -46,9 +46,14 @@
 
 ### 🌐 Connect With Me
 
-<p align="center">
+## 📬 Contact Me
 
-  <a href="mailto:mukumbigeorge5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<p align="center">
+  <a href="mailto:mukumbigeorge5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</p>
+
 
   <!-- Add other links like portfolio, Twitter, email etc. -->
 </p>
