@@ -14,7 +14,6 @@
 
 
 
-### 🛠️ Technologies & Tools
 
 ## 🛠️ Technologies & Tools
 
