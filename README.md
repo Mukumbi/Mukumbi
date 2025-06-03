@@ -43,7 +43,7 @@
 
 ---
 
-### 🌐 Available on
+### 🌐 Conatact me on
 
 
 <p align="center">
