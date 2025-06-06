@@ -43,8 +43,7 @@
 
 ---
 
-### 🌐 Contact me on.............lets goooooooo!
-
+### 🌐 Contact me on
 
 <p align="center">
   <a href="mailto:mukumbigeorge5@gmail.com">
