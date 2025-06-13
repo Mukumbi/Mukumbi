@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm George Mukumbi!</h1>
+<h1 align="center">Hi there! 👋 I'm George Mukumbi</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F70000&width=435&lines=Software+Developer;Data+Enthusiast;Tech+Explorer;Lifelong+Learner" alt="Typing SVG" />
@@ -33,7 +33,7 @@
 
 ---
 
-### 🐧 OS & Dev Tool
+### 🐧 OS & Dev Tools
 
 <p align="center">
 
