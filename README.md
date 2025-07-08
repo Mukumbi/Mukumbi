@@ -33,7 +33,7 @@
 
 ---
 
-### 🐧 OS & Dev Tools..
+### 🐧 OS & Dev Tools.
 
 <p align="center">
 
